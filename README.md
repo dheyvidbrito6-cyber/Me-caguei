@@ -1,2 +1,3 @@
-# Me-caguei
-Me caguei
+return {
+    ["sr_greg81"] = true,
+}
